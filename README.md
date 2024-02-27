@@ -2,15 +2,17 @@
 <hr>
 
 **Welcome! This is a little bit about me and my prior work.**
-<img src="https://user-images.githubusercontent.com/91146906/163692219-efc3d673-751e-4734-8667-21a3aae17f44.jpg" height="460">
-I am originally from Austin, Texas and a former Maroon who graduated from the Stephen F. Austin High School in Austin, TX. I moved out to Denver to pursue a degree in Data Analytics and have fallen in love with the state of Colorado.
+
+<img src="Alex%20ID%20PIC.jpg" alt="Alex ID PIC" width="200" height="200">
+
+I am originally from Austin, Texas, as a former Maroon I graduated from the Stephen F. Austin High School in Austin, TX. I moved out to Denver to pursue a degree in Data Analytics and have fallen in love with the state of Colorado. During my time so far at DU I have found my passion for analytics as I further develop my technical skills.
 
 <a name="education"></a>
 <hr>
 
 ## Education
 ### Univeristy of Denver, Daniels College of Business
-Bachelor of Science Business Administration – Major: Business Information and Analytics Minor: Economics, June 2025
+Bachelor of Science Business Administration – Major: Business Information and Analytics - Minor: Economics, June 2025
 
 ## Skills
 
