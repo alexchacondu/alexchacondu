@@ -2,7 +2,7 @@
 <hr>
 
 **Welcome! This is a little bit about me and my prior work.**
-
+<img src="https://user-images.githubusercontent.com/91146906/163692219-efc3d673-751e-4734-8667-21a3aae17f44.jpg" height="460">
 I am originally from Austin, Texas and a former Maroon who graduated from the Stephen F. Austin High School in Austin, TX. I moved out to Denver to pursue a degree in Data Analytics and have fallen in love with the state of Colorado.
 
 <a name="education"></a>
