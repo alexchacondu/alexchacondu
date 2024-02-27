@@ -49,13 +49,11 @@ Bachelor of Science Business Administration – Major: Business Information and 
   </tr>
   <tr>
     <td>
-      <ol>
         <li> Leadership </li>
         <li> Quick Learner </li>
         <li> Adaptable </li>
         <li> Responsible </li>
         <li> Time Managment </li>
-      </ol>
     </td>
     <td>
       <ul>
