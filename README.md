@@ -15,8 +15,13 @@ I am originally from Austin, Texas, as a former Maroon I graduated from the Step
 ### Univeristy of Denver, Daniels College of Business
 Bachelor of Science Business Administration – Major: Business Information and Analytics - Minor: Economics, June 2025
 
-## Skills
+## Project Work
+<img src = "Github%20Snip%20for%20Portfolio.png" alt = "Github Snip for Portfolio" width = "800" height = "400">
+This chart was built during my optamization modeling class using python. It shows how the quantity of putters shipped to each warehouse based on how the shipping costs change for the route from Production Plant 3 to Distribution Center 1. I have linked the entire model that I built below.
 
+[Quiz 1](quiz_1%20(1).html)
+
+## Skills
 <table>
   <tr>
     <th>Tools and Technical Skills</th>
@@ -66,7 +71,7 @@ Bachelor of Science Business Administration – Major: Business Information and 
     </td>
   </tr>
 
-## Project Work
+
        
 
 
